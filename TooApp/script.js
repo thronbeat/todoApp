@@ -30,16 +30,6 @@ const editTask = (index) => {
 
 };
 
-
-
-
-
-
-
-
-
-
-
 const updateTaskList = () => {
     const taskList = document.getElementById("taskList");
     taskList.innerHTML = "";

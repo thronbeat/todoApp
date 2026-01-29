@@ -127,7 +127,7 @@ form button{
     cursor: pointer;
 }
 
-.completed p{
+.completed {
     text-decoration: line-through;
     color: var(--teal);
 }
